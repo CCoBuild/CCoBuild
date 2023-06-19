@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CCoBuild
+- 👋 Hi, I’m @CCoBuild.
 
 
 <!---
